@@ -1,0 +1,20 @@
+Longest Common Subsequence (LCS):
+Given two strings, find the length of the longest subsequence present in both of them.
+Coin Change:
+Given a set of coin denominations and a target amount, find the minimum number of coins needed to make up that amount.
+0/1 Knapsack Problem:
+Given a set of items, each with a weight and a value, determine the maximum value that can be obtained by selecting a subset of the items such that the total weight is not more than a given limit.
+Longest Increasing Subsequence (LIS):
+Given an array of integers, find the length of the longest subsequence that is strictly increasing.
+Maximum Subarray Sum:
+Given an array of integers, find the contiguous subarray (containing at least one number) that has the largest sum and return its sum.
+Edit Distance:
+Given two strings, find the minimum number of operations required to convert one string into the other, where the operations include insertion, deletion, or substitution of a character.
+Matrix Chain Multiplication:
+Given a sequence of matrices, find the most efficient way to multiply these matrices together.
+Partition Equal Subset Sum:
+Given a non-empty array containing only positive integers, determine whether the array can be partitioned into two subsets such that the sum of elements in both subsets is equal.
+Unique Paths:
+A robot is located at the top-left corner of a grid with m rows and n columns. The robot can only move either down or right at any point in time. Find the number of unique paths the robot can take to reach the bottom-right corner.
+Palindrome Partitioning:
+Given a string, partition it into as many parts as possible such that each part is a palindrome.

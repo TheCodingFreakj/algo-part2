@@ -1,0 +1,25 @@
+Minimum Path Sum in a Grid: Given a grid filled with non-negative numbers, find a path from the top-left corner to the bottom-right corner that minimizes the sum of numbers along the path.
+
+
+Minimum Cost Path in a Matrix with Limited Moves: Given a matrix with values representing costs, and limited moves in each direction, find the minimum cost path from the top-left corner to the bottom-right corner.
+
+Variations of above
+
+Minimum Cost Path with Limited Moves and Obstacles: In this variation, the matrix contains obstacles or blocked cells that cannot be traversed. The task is to find the minimum cost path from a start cell to an end cell while only being allowed to move a certain number of steps in each direction (up, down, left, right).
+
+or 
+
+Minimum Cost Path with Limited Moves and Diagonal Moves: This variation introduces diagonal movement along with vertical and horizontal movements. The task is to find the minimum cost path from a start cell to an end cell, with restrictions on the maximum number of steps allowed in each direction, including diagonals.
+
+or 
+
+Minimum Cost Path with Limited Moves and Variable Step Costs: Here, the cost of moving from one cell to another may vary based on some conditions or parameters. The task is to find the path with the minimum total cost from a given start cell to an end cell, while considering the limited number of steps allowed in each direction and the variable costs associated with movement.
+
+Or
+
+Minimum Cost Path with Limited Moves and Weights: Here, each cell in the matrix has an associated cost or weight. The objective is to find the path with the minimum total cost from a given start cell to an end cell, while being constrained by the maximum number of steps allowed in each direction.
+
+
+
+Minimum Cost Path in a Weighted Graph: Given a weighted graph, find the path from a given source vertex to a given destination vertex such that the total cost of the path is minimized.
+

@@ -1,0 +1,20 @@
+Factorial: Compute the factorial of a non-negative integer.
+Fibonacci Sequence: Generate the nth Fibonacci number.
+Sum of Digits: Calculate the sum of digits of a positive integer.
+Power Function: Implement exponentiation recursively.
+Greatest Common Divisor (GCD): Find the greatest common divisor of two integers.
+Binary Search: Implement binary search recursively.
+Tower of Hanoi: Solve the Tower of Hanoi puzzle.
+Merge Sort: Implement the merge sort algorithm.
+Quick Sort: Implement the quick sort algorithm.
+Palindrome Checking: Check if a given string is a palindrome.
+Permutations: Generate all permutations of a given list of elements.
+Combinations: Generate all combinations of a given list of elements.
+Subset Sum: Determine if there exists a subset of a set that sums up to a given target.
+Combination Sum: Find all unique combinations of numbers that sum up to a given target.
+Parentheses Matching: Check if a given expression has balanced parentheses.
+Tree Traversal: Implement preorder, inorder, and postorder traversal of a binary tree.
+Pathfinding in a Grid: Find a path from the start to the end in a grid.
+Subset Generation: Generate all subsets of a given set.
+Tiling Problems: Solve tiling problems such as tiling a floor of size n x m using tiles of size 1 x m.
+Knight's Tour: Find a sequence of moves of the knight on a chessboard such that the knight visits every square exactly once.

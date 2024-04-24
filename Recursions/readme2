@@ -1,0 +1,20 @@
+function findPath(grid, start, end):
+    Initialize an empty queue.
+    Enqueue the start cell into the queue.
+    Initialize a set to keep track of visited cells.
+    Add the start cell to the visited set.
+    Initialize a dictionary to store parent pointers.
+    Set parent of start cell to None.
+
+    while queue is not empty:
+        Dequeue a cell from the queue.
+        If the dequeued cell is the destination:
+            Reconstruct and return the path using parent pointers.
+        For each neighbor of the dequeued cell:
+            If neighbor is a valid cell (not blocked and not visited):
+                Mark neighbor as visited.
+                Add neighbor to the queue.
+                Update parent pointer of neighbor to the dequeued cell.
+
+    // If destination is unreachable
+    Return an empty path.

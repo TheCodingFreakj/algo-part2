@@ -1,0 +1,28 @@
+Valid Parentheses:
+
+Problem: Given a string containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
+Solution: Use a stack to keep track of opening brackets. When encountering a closing bracket, check if it matches the top of the stack.
+Evaluate Reverse Polish Notation:
+
+Problem: Evaluate the value of an arithmetic expression in Reverse Polish Notation.
+Solution: Use a stack to store operands. When encountering an operator, pop the operands, perform the operation, and push the result back onto the stack.
+Next Greater Element:
+
+Problem: Given an array, find the next greater element for every element. The next greater element for an element x is the first greater element to its right.
+Solution: Use a stack to store elements whose next greater element is yet to be found. Iterate through the array and maintain a decreasing subsequence in the stack.
+Implement Queue using Stacks:
+
+Problem: Implement a queue using stacks. The queue should support push, pop, peek, and empty operations.
+Solution: Use two stacks - one for enqueue operation and the other for dequeue operation. Ensure elements are transferred between stacks as needed.
+Maximum Frequency Stack:
+
+Problem: Implement a stack-like data structure that supports push, pop, and getMaxFreq operations. getMaxFreq returns the most frequent element in the stack.
+Solution: Use a dictionary to keep track of the frequency of elements and another dictionary to group elements by frequency. Maintain a max frequency value.
+Implement Min Stack:
+
+Problem: Design a stack that supports push, pop, top, and retrieving the minimum element in constant time.
+Solution: Use an additional stack to keep track of the minimum element at each state.
+Remove Duplicate Letters:
+
+Problem: Given a string, remove duplicate letters so that every letter appears once and only once. You must make sure your result is the smallest in lexicographical order among all possible results.
+Solution: Use a stack to maintain the characters in order. When encountering a character, check if it should be added to the stack by comparing it with the top of the stack and the remaining characters.
